@@ -1,0 +1,2 @@
+body{background-color:#c2b8b2}.todo{display:flex;justify-content:center;flex-direction:column;flex-wrap:wrap;margin:0 25px;padding:0;grid-gap:20px;gap:20px;list-style:none}.todo__item{margin-bottom:10px;font-size:20px;font-weight:400;font-family:sans-serif;border:2px solid #543c52;border-radius:10px;background-color:#edd2cb;color:#361d32;transition:all 1s;cursor:pointer}.todo__item:hover{-webkit-transform:scale(1.02);transform:scale(1.02)}
+/*# sourceMappingURL=main.91a68614.chunk.css.map */
